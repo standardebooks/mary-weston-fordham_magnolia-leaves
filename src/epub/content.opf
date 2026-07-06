@@ -43,7 +43,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/006775637</dc:source>
 		<meta property="schema:wordCount">13858</meta>
 		<meta property="schema:educationalLevel">76.96</meta>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/mary-weston-fordham_magnolia-leaves" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
