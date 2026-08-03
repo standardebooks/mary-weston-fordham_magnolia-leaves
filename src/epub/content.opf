@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves</dc:identifier>
 		<dc:date>2025-10-07T17:58:57Z</dc:date>
@@ -34,10 +34,10 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85004389</meta>
 		<meta property="schema:genre">Poetry</meta>
-		<dc:description id="description">A collection of poems by Mary Weston Fordham.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of poems by Mary Weston Fordham.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Writing in the second half of the 19th century, &lt;a href="https://standardebooks.org/ebooks/mary-weston-fordham"&gt;Mary Weston Fordham&lt;/a&gt; was an African-American poet and teacher for the American Missionary Association, a Christian organization that played a major role in building schools for African-Americans following Reconstruction. Much of her poetry relates to religious and familial themes, especially the process of grieving for dead family members. She published her poetry in the collection &lt;i&gt;Magnolia Leaves&lt;/i&gt;, which also contains a foreword by &lt;a href="https://standardebooks.org/ebooks/booker-t-washington"&gt;Booker T. Washington&lt;/a&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/mary-weston-fordham-magnolia-leaves-full-text-1897-preface-by-booker-t-washington</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006775637</dc:source>
