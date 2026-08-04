@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85004389</meta>
 		<meta property="schema:genre">Poetry</meta>
-		<dc:abstract>A collection of poems by Mary Weston Fordham.</dc:abstract>
+		<meta property="schema:abstract">A collection of poems by Mary Weston Fordham.</meta>
 		<dc:description>
 			&lt;p&gt;Writing in the second half of the 19th century, &lt;a href="https://standardebooks.org/ebooks/mary-weston-fordham"&gt;Mary Weston Fordham&lt;/a&gt; was an African-American poet and teacher for the American Missionary Association, a Christian organization that played a major role in building schools for African-Americans following Reconstruction. Much of her poetry relates to religious and familial themes, especially the process of grieving for dead family members. She published her poetry in the collection &lt;i&gt;Magnolia Leaves&lt;/i&gt;, which also contains a foreword by &lt;a href="https://standardebooks.org/ebooks/booker-t-washington"&gt;Booker T. Washington&lt;/a&gt;.&lt;/p&gt;
 		</dc:description>
